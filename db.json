@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "tommy",
+      "address": "japan",
+      "email": "tommy@gmail.com",
+      "contact": "7894561230",
+      "id": 2
+    },
+    {
+      "name": "jane be",
+      "address": "ahmedabad",
+      "email": "jane@gmail.com",
+      "contact": "4561237897",
+      "id": 3
+    },
+    {
+      "name": "darshan",
+      "address": "indai",
+      "email": "darshan@gmail.com",
+      "contact": "35648921",
+      "id": 4
+    },
+    {
+      "name": "dsffdf",
+      "email": "gffgf@ss",
+      "contact": "22654256",
+      "address": "dsfdj",
+      "id": 5
+    }
+  ]
+}
